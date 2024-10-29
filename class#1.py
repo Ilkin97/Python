@@ -26,13 +26,13 @@ class Animal:
 
 # Person
 if __name__ == "__main__":
-    erson1 = Person("Ilkin", 22)
-    erson1.greeting()
-    erson1.sleep()
+    person1 = Person("Ilkin", 22)
+    person1.greeting()
+    person1.sleep()
 #Animal
-    nimal1 = Animal("REX", 3, "black")
-    nimal1.eat()
-    nimal1.run()
+    animal1 = Animal("REX", 3, "black")
+    animal1.eat()
+    animal1.run()
 
 # QUIZ
 """
